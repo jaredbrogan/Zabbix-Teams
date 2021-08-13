@@ -26,6 +26,15 @@ This page will show you how to setup and configure the `zabbix-teams.sh` script 
   6. Should look like this:
 <img src="images/MS Teams - Media Type.png" align="center">
 
+* The next step is to create a new macro to be used in our new alerts. Please perform the following:
+  1. On the Zabbix Frontend, navigate to _Administration_ → _Macros_
+  2. Click the small _Add_ button
+  3. In the Macro column, enter `{$ZABBIX_URL}`
+  4. In the Value column, enter your specific Zabbix web URL
+  5. Click the _Update_ button to apply this change.
+  6. The new macro should look something like this:
+<img src="images/Macro_Setup.png" align="center">
+
 <p align=center>Now that we have the new media type created, we can move forward with the next section! 🙂</p>
 
 ## Teams Channel Configuration
