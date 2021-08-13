@@ -181,10 +181,10 @@ Please perform the following:
     7. Now click the **BIG** _Add_ button
     8. Once created, it should resemble this:
 
-><span><img src="images/Action_Setup_1.png" align="center" width="350" height="300"></span>
-><span><img src="images/Action_Setup_2.png" align="center" width="450" height="300"></span>
-><span><img src="images/Action_Setup_3.png" align="center" width="450" height="300"></span>
-><span><img src="images/Action_Setup_4.png" align="center" width="350" height="300"></span>
+><span><img src="images/Action_Setup_1.png" align="center" width="250" height="200"></span>
+><span><img src="images/Action_Setup_2.png" align="center" width="350" height="200"></span>
+><span><img src="images/Action_Setup_3.png" align="center" width="350" height="200"></span>
+><span><img src="images/Action_Setup_4.png" align="center" width="250" height="200"></span>
 
 <h3 align=center> And there you go! Everything is finally setup!</h3>
 <p align=center>Please enjoy the additional notifications! 😎👍</p>
