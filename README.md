@@ -1,5 +1,7 @@
 # Zabbix - Teams
 
+<p align=center> :information_source: Disclaimer: This was developed on Zabbix 4.0, but I see no reason it shouldn't work on newer versions as well. :information_source: </p>
+
 ## Introduction
 
 This page will show you how to setup and configure the `zabbix-teams.sh` script to be implemented so that you will receive Zabbix problem alerts in the desired Microsoft Teams channel of your choosing.
